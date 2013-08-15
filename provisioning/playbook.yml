@@ -1,0 +1,4 @@
+- hosts: vagrant
+  sudo: true
+  roles:
+    - common
